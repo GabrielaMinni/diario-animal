@@ -1,5 +1,6 @@
 header {
     font-family: sans-serif;
+    color: #35334e;
     letter-spacing: 16 px;
 }
 body {
@@ -9,3 +10,28 @@ body {
     letter-spacing: -0.09px;
     margin-bottom: 12px;
 }
+
+.navbar{
+    background-color: #35334e;
+    text-align: center;
+    height: 31px;
+    margin-top:100px;
+    width: 794;
+}
+
+.navbar a{
+    font-size: 13px;
+    display:inline-block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.bold {
+    padding: 7px;
+    font-weight: bolder;
+    display: inline-block;
+}
+
+
+
