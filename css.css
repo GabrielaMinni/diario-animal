@@ -17,6 +17,7 @@ p {
     margin-right: 430px;
     font-size: 17px;
     letter-spacing: 1.3px;
+    text-align: justify;
 }
 
 .navbar {
@@ -90,5 +91,20 @@ div h1  {
 .picture-2 {
     margin-left: 50px; 
 }
+
+.other-articles {
+    font-variant: small-caps;
+    color:  #a92323;
+    text-decoration: none;
+}
+
+.article-image {
+    float:left;
+}
+
+.articles-title {
+    font-style: bold;
+}
+
 
 
