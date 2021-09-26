@@ -44,10 +44,6 @@ p {
     display: inline-block;
 }
 
-.picture {
-    width: 80px;
-} 
-
 .bold-1 {
     font-weight: bold;
     display:inline-block;
@@ -60,6 +56,7 @@ p {
     text-align: center;
     font-weight: bold;
     text-decoration: none;
+    display: inline-flex;
 }
 
 .margin {
@@ -70,7 +67,7 @@ p {
 div h1  {
     font-size: 40px;
     font-weight: 900;
-    letter-spacing: 1px;
+    letter-spacing: 1px;s
 }
 
 .bold-red {
@@ -90,6 +87,8 @@ div h1  {
     margin-right: 400px;
 }
 
-
+.picture-2 {
+    margin-left: 50px; 
+}
 
 
