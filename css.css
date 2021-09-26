@@ -73,7 +73,7 @@ div h1  {
 
 .bold-red {
     font-weight: bold;
-    color:#a92323;
+    color: #a92323;
 }
 
 .dotted-top{
@@ -98,12 +98,33 @@ div h1  {
     text-decoration: none;
 }
 
-.article-image {
-    float:left;
+.articles-title {
+    font-style: bolder;
+    text-decoration: none;
 }
 
-.articles-title {
-    font-style: bold;
+.articles-block {
+    display:inline;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.audio-image {
+    margin-left: 50px;
+}
+
+.audio-1 {
+    margin-top: 0;
+    margin-bottom: 0px;
+    margin-left: 50px;
+}
+
+.audio {
+    margin-left: 50px;
 }
 
 
