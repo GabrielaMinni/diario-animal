@@ -3,13 +3,13 @@ header {
     color: #35334e;
     letter-spacing: 16 px;
 }
+
 body {
     font-family: sans-serif;
     color: #35334e;
     font-size: 16px;
     letter-spacing: -0.09px;
     margin-bottom: 12px;
-    
 }
 
 .navbar {
@@ -66,6 +66,18 @@ div h1  {
     letter-spacing: 1px;
 }
 
+.bold-red {
+    font-weight: bold;
+    color:#a92323;
+}
+
+.dotted-top{
+    border-top-style: dotted;
+}
+
+.dotted-bottom{
+    border-bottom-style: dotted;
+}
 
 
 
