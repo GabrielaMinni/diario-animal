@@ -14,7 +14,9 @@ body {
  
 p {
     margin-left: 37px;
-    margin-right: 500px;
+    margin-right: 430px;
+    font-size: 17px;
+    letter-spacing: 1.3px;
 }
 
 .navbar {
