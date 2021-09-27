@@ -121,8 +121,32 @@ h4 {
     text-decoration: none;
 } 
 
+.resume {
+    width:400px;
+    margin-left: 30px;
+}
+
+.imagen {
+    float:left;
+    width: 40%;
+}
+
+.resume-text {
+    float: left;
+    width: 60%;
+}
+
+.resume-list {
+    list-style-type: none; 
+    float:left;
+}
+
+.resume-list li{
+    float:left
+}
+
 .clearfix {
-    clear: both;
+    clear:both
 }
 
 .aside-box {
