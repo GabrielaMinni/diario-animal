@@ -90,28 +90,15 @@ h1  {
 .dotted-top{
     border-top-style: dotted;
     margin-left: 37px;
-    padding-top: 10px;
 }
 
 .dotted-bottom{
     border-bottom-style: dotted;
     margin-left: 37px;
-    padding-bottom: 10 px;
 }
 
 .picture-2 {
     margin-left: 50px; 
-}
-
-.other-articles {
-    font-variant: small-caps;
-    color:  #a92323;
-    text-decoration: none;
-}
-
-.articles-title {
-    font-style: bolder;
-    text-decoration: none;
 }
 
 .audio-image {
@@ -128,3 +115,38 @@ h1  {
     margin-left: 50px;
 }
 
+h4 {
+    font-variant: small-caps;
+    color:  #a92323;
+    text-decoration: none;
+} 
+
+.clearfix {
+    clear: both;
+}
+
+.aside-box {
+    background-color: #fdf9d8;
+    margin-top: 18px;
+    margin-right: 16px;
+    margin-left: 16px;
+    margin-bottom: 15px;
+}
+
+a { 
+    text-decoration: none;
+    color: #35334e; 
+    font-weight: 700;
+    text-align: webkit-match-parent;
+}
+
+h2 {
+    font-family: bold;
+    font-variant: small-caps;
+    color: #35334e; 
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 21px;
+    margin: 18px 16px 15px;
+    font-family: sans-serif;
+} 
