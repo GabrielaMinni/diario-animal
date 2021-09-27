@@ -62,6 +62,19 @@ p {
     display:inline-block;
 }
 
+.prince {
+    position:relative;
+} 
+
+.mirror {
+    position: fixed;
+    top: 150px;
+    left: 39px;
+    color: white;
+    font-size: 70px;
+    font-weight: bolder; 
+    background-color: #a92323;
+}
 .navbar-1 {
     background-color: #a92323;
     color: #fff;
